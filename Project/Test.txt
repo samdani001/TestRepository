@@ -1,11 +1,1 @@
- Volume in drive E is K
- Volume Serial Number is DE9F-AA64
-
- Directory of E:\Krishna Study Materials\Online Courses\Git and GitHub
-
-23-Apr-20  11:20 AM    <DIR>          .
-23-Apr-20  11:20 AM    <DIR>          ..
-23-Apr-20  11:18 AM    <DIR>          Project
-23-Apr-20  11:20 AM                 0 Test.txt
-               1 File(s)              0 bytes
-               3 Dir(s)   8,814,686,208 bytes free
+changes 1
